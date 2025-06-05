@@ -1,0 +1,19 @@
+# Data handling
+pandas
+numpy
+yfinance
+
+# Plotting
+matplotlib
+seaborn
+
+# Statistical models
+statsmodels
+arch
+
+# Machine learning (optional for LSTM)
+tensorflow  # or use torch instead
+scikit-learn
+
+# Jupyter support
+jupyterlab
